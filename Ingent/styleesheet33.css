@@ -1,0 +1,169 @@
+body {
+    background-color: rgb(18, 17, 17);
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image {
+    border-radius: 100%;
+}
+
+.menu-button {
+    padding-right: 40px;
+}
+
+.contact-link {
+    background-color: rgb(9, 124, 248);
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    height: 35px;
+    width: 110px;
+}
+
+.title-1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 200px;
+}
+
+.title-2 {
+    text-align: center;
+    color: rgb(157, 157, 157);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-3 {
+    text-align: center;
+    color: rgb(157, 157, 157);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact-us {
+    background-color: rgb(9, 124, 248);
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    height: 35px;
+    width: 110px;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.image-1 {
+    border-radius: 20px;
+}
+
+.image-container {
+    padding-right: 50px;
+    padding-left: 200px;
+}
+
+.text-container {
+    padding-bottom: 30px;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+p {
+    padding-right: 200px;
+    color: rgb(194, 192, 192);
+    font-size: 16px;
+}
+
+.main-para {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.sub-title {
+    width: 700px;
+}
+
+.heading {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.handsome {
+    border-radius: 100%;
+    height: 40px;
+    padding-bottom: 10px;
+}
+
+.sub-heading {
+    font-size: 25px;
+    color: rgb(157, 157, 157);
+}
+
+.name {
+    font-size: 15px;
+    color: white;
+}
+
+.CEO {
+    color: rgb(157, 157, 157);
+}
+
+.second-title-1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 150px;
+}
+
+.second-title-2 {
+    text-align: center;
+    color: rgb(157, 157, 157);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 50px;
+}
+
+.main-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description-1 {
+    padding-left: 150px;
+}
+
+.blue {
+    color: blue;
+}

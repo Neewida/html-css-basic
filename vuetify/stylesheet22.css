@@ -1,0 +1,170 @@
+body {
+    background-color: rgb(14, 13, 13);
+    color: white;
+    font-family: helvetica;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1000px;
+
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    margin-right: 50px;
+}
+
+.image {
+    border-radius: 100%;
+}
+
+.title-1 {
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 15px;
+}
+
+.title-2 {
+    color: rgb(225, 223, 223);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.buttons {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.Get-started {
+    background-color: rgb(9, 124, 248);
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+}
+
+.Why-vuetify {
+    background-color: black;
+    color: rgb(9, 124, 248);
+    border-radius: 5px;
+    width: 200px;
+    border-color: rgb(9, 124, 248);
+    height: 50px;
+    font-size: 20px;
+}
+
+.Git-hub {
+    background-color: rgb(60, 59, 59);
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+}
+
+.box1 {
+    background-color: rgb(60, 59, 59);
+    font-size: 15px;
+    color: white;
+    width: 200px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+
+.box2 {
+    background-color: rgb(60, 59, 59);
+    font-size: 15px;
+    color: white;
+    width: 200px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+
+.box3 {
+    background-color: rgb(60, 59, 59);
+    font-size: 15px;
+    color: white;
+    width: 200px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+
+.main-line {
+    display: flex;
+    background-color: white;
+    margin-top: 20px;
+    align-items: center;
+
+
+}
+
+.circle {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(46, 45, 45);
+    border-radius: 100%;
+    margin: 10px;
+}
+
+
+p.paragraph {
+    font-size: 18px;
+    line-height: 10px;
+    color: black;
+}
+
+.box {
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.bg-grey {
+    background-color: rgb(32, 32, 32);
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.space-around {
+    padding: 20px;
+}
+
+.image-1 {
+    width: 100%;
+    object-fit: cover;
+}
+
+.content {
+    font-size: 15px;
+}

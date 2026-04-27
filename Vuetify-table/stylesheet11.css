@@ -1,0 +1,132 @@
+body {
+    font-size: 15px;
+    margin: 0px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header {
+    background: rgb(85, 129, 250);
+    padding-left: 60px;
+    padding-right: 60px;
+    color: white;
+    justify-content: space-between;
+    height: 80px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.image {
+    border-radius: 100%;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.flexcontainer {
+    display: flex;
+}
+
+.box {
+    background-color: white;
+    flex-grow: 1;
+    border: rgb(155, 154, 154) 1px solid;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.title {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.circle {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(170, 197, 251);
+    border-radius: 100%;
+    margin: 10px;
+}
+
+.title-1 {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-black {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+.box-1 {
+    background-color: white;
+    margin: 10px;
+    border: rgb(155, 154, 154) 1px solid;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.box-container {
+    flex-grow: 1;
+}
+
+.grey-in-color {
+    color: grey;
+    font-size: 15px;
+}
+
+.rate {
+    padding-right: 10px;
+}
+
+.color {
+    color: grey;
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.progress-container {
+    width: 90%;
+    height: 8px;
+    background: #e6e6e6;
+    border-radius: 20px;
+    display: flex;
+}
+
+.progress-bar {
+    width: 70%;
+    background: #76aada;
+    border-radius: 20px;
+}
+
+.progress-1-bar {
+    width: 50%;
+    background: #76aada;
+    border-radius: 20px;
+}
+
+.progress-2-bar {
+    width: 30%;
+    background: #76aada;
+    border-radius: 20px;
+}
+
+.progress-3-bar {
+    width: 20%;
+    background: #76aada;
+    border-radius: 20px;
+}
